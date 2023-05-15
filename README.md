@@ -4,7 +4,7 @@ Este guia tem por objetivo fornecer uma lista de materiais pré-selecionados par
 
 *Última atualização em 15 de Maio de 2023*
 
-> **_NOTA:_** O conteúdo de alguns links pode aparecer em inglês caso a AWS ainda não tenha uma tradução criada em Português sobre o mesmo, principalmente os Whitpapers e conteúdos de alguns blogs da AWS.
+> **_NOTA:_** O conteúdo de alguns links está em inglês por não possuir uma tradução criada pela AWS em Português, principalmente os Whitpapers e conteúdos de alguns blogs da AWS.
 
 ## 📝 Habilidades medidas - [Obtido no link oficial](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
