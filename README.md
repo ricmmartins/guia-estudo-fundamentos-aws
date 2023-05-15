@@ -25,7 +25,7 @@ Este guia tem por objetivo fornecer uma lista de materiais pré-selecionados par
    * Agilidade
      * [O que é Cloud Computing - Procure Agilidade](https://aws.amazon.com/pt/what-is-cloud-computing/)
    * Preços pré-pagos
-     * [Como funciona a precificação da AWS?](https://aws.amazon.com/pt/pricing/?aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free %20Tier%20Type=*all&awsf.tech-category=*all#)
+     * [Como funciona a precificação da AWS?]
    * Escalabilidade
      * [Definição de escalabilidade](https://wa.aws.amazon.com/wat.concept.scalability.en.html)
    * Alcance global
