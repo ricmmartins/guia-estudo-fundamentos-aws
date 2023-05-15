@@ -32,13 +32,13 @@ Este guia tem por objetivo fornecer uma lista de materiais pré-selecionados par
      * [AWS Global Infrastructure](https://aws.amazon.com/pt/about-aws/global-infrastructure/?pg=cloudessentials)
    * Economia de escala
      * [Seis vantagens da computação em nuvem](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
-     * [Introduction to Cloud Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
+     * [Introdução à economia de cloud](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
 * Explicar como a nuvem AWS permite que os usuários se concentrem no valor comercial
-     * [Valor comercial na AWS](https://aws.amazon.com/pt/executive-insights/content/business-value-on-aws/)
-     * [Aclcançando valor empresarial com a AWS](https://aws.amazon.com/pt/executive-insights/content/realizing-business-value-with-aws/)
+     * ["Business Value" na AWS](https://aws.amazon.com/pt/executive-insights/content/business-value-on-aws/)
+     * [Realizando "business value" com a AWS](https://aws.amazon.com/pt/executive-insights/content/realizing-business-value-with-aws/)
 * Deslocar recursos técnicos para atividades geradoras de receita, em vez de gerenciar
 a infraestrutura
-     * [Centro de Informações sobre Aspectos Econômicos da Nuvem](https://aws.amazon.com/pt/economics/)
+     * [Centro de informações sobre aspectos econômicos da nuvem](https://aws.amazon.com/pt/economics/)
      * [O que é IaaS (Infraestrutura como serviço)?](https://aws.amazon.com/pt/what-is/iaas/)
 
 #### Identificar aspectos da economia da Nuvem AWS
