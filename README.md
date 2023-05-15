@@ -88,7 +88,7 @@ SOCs)
    * Reconhecer que os requisitos de conformidade variam entre os serviços da AWS
      * [Serviços da AWS no escopo do programa de conformidade](https://aws.amazon.com/compliance/services-in-scope/SOC/)
      * [Introdução à segurança da AWS - seção de conformidade](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/compliance.html)
-     * [Introduction to AWS Security - PDF Whitepaper](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf)
+     * [Introdução à segurança da AWS - Whitepaper em PDF](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf)
      * [E-book de Risco e Conformidade da AWS](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-risk-and-compliance/aws-risk-and-compliance.pdf)
 * Em alto nível, descreva como os clientes obtêm conformidade na AWS
    * Identifique diferentes opções de criptografia na AWS (por exemplo, em trânsito, em repouso)
