@@ -23,7 +23,7 @@ Este guia tem por objetivo fornecer uma lista de materiais pré-selecionados par
    * Elasticidade
      * [Definição de Elasticidade](https://wa.aws.amazon.com/wat.concept.elasticity.en.html)
    * Agilidade
-     * [O que é Cloud Computing - Procure Agilidade](https://aws.amazon.com/pt/what-is-cloud-computing/)
+     * [O que é Cloud Computing](https://aws.amazon.com/pt/what-is-cloud-computing/)
    * Preços pré-pagos
      * [Como funciona a precificação da AWS?](https://aws.amazon.com/pt/pricing/)
    * Escalabilidade
