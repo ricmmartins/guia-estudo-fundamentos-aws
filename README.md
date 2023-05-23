@@ -13,7 +13,7 @@ Este guia tem por objetivo fornecer uma lista de materiais pré-selecionados par
 #### Defina a Nuvem AWS e sua proposta de valor
 * Definir os benefícios da nuvem AWS, incluindo
    * Segurança
-     * [Seguraunça na nuvem AWS](https://aws.amazon.com/pt/security/)
+     * [Segurança na nuvem AWS](https://aws.amazon.com/pt/security/)
      * [Segurança, Identidade e Conformidade na AWS](https://aws.amazon.com/pt/products/security/)
      * [Whitepaper de segurança e conformidade](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
    * Confiabilidade
